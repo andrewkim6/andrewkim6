@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](www.google.com)
+[![MasterHead](https://cdn.wallpapersafari.com/82/97/mg0byD.jpg)](www.google.com)
 <h1 align="center">Hi 👋, I'm Andrew Kim</h1>
 <h3 align="center">Third Year ECE @ UT Austin with a Software Engineering Track</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29sZDB1d3NsaXgxMDh4aXFpdzF2NDV4ZWJ4NzhwcXVvYmxrZm1xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
