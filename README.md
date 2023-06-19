@@ -1,6 +1,7 @@
+[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](www.google.com)
 <h1 align="center">Hi 👋, I'm Andrew Kim</h1>
 <h3 align="center">Third Year ECE @ UT Austin with a Software Engineering Track</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-25731151">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29sZDB1d3NsaXgxMDh4aXFpdzF2NDV4ZWJ4NzhwcXVvYmxrZm1xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewkim6&label=Profile%20views&color=0e75b6&style=flat" alt="andrewkim6" /> </p>
 
 - 🔭 I’m currently working on [TXRent Website for UT Students](https://github.com/andrewkim6/apartment-website)
