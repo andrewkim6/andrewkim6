@@ -1,7 +1,6 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/829/812/original/binary-code-banner-vector.jpg)](www.hello.com)
 <h1 align="center">Hi 👋, I'm Andrew Kim</h1>
 <h3 align="center">Third Year ECE @ UT Austin with a Software Engineering Track</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewkim6&label=Profile%20views&color=0e75b6&style=flat" alt="andrewkim6" /> </p>
 
 - 🔭 I’m currently working on [TXRent Website for UT Students](https://github.com/andrewkim6/apartment-website)
